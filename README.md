@@ -2,4 +2,4 @@
 CS Project group
 
   - Weekly reports
-    - yeah
+    - ...
