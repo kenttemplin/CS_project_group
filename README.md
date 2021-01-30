@@ -25,20 +25,20 @@ CS Project group
     - Weekly report (3/7 - 3/13)
       - https://docs.google.com/document/d/1KDFUBV8wV2FJ7NUHNMcopVtDe8edWc5itgv89_UcPio/edit?usp=sharing
     - Weekly report (3/14 - 3/21)
-      - ...
+      - https://docs.google.com/document/d/1MpwgOPHb9XvGV7lhYbcVBAIsgZ7xOOyybafBKSt0nuM/edit?usp=sharing
     - Weekly report (3/22 - 3/28)
       - ...
-    - 3/29 - 4/4
+    - Weekly report (3/29 - 4/4)
       - ...
-    - 4/5 - 4/11
+    - Weekly report (4/5 - 4/11)
       - ...
-    - 4/12 - 4/18
+    - Weekly report (4/12 - 4/18)
       - ...
-    - 4/19 - 4/25
+    - Weekly report (4/19 - 4/25)
       - ...
-    - 4/26 - 5/2
+    - Weekly report (4/26 - 5/2)
       - ...
-    - 5/3 - 5/9
+    - Weekly report (5/3 - 5/9)
       - ...
   
   - Final Report (due 4/14)
@@ -51,6 +51,6 @@ CS Project group
       - ...
       
   - Weekly reports (?)
-    - 5/10 - 5/16
+    - Weekly report (5/10 - 5/16) (?)
       - ...
 
