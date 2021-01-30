@@ -17,7 +17,7 @@ CS Project group
       - https://docs.google.com/document/d/1425QDA_36_jcMUBrlJ2yMOB2oDjx5b6MKL1_BPt8Dc0/edit?usp=sharing
   
   - Mid Semester Peer Review (due 3/5)
-      - ...
+      - https://docs.google.com/document/d/1Uj9cGb2Mgi2uOnvoLKgEloQgZ63iRC1gxULtGidkkgc/edit?usp=sharing
       
   - Weekly reports
     - 3/1 - 3/7
