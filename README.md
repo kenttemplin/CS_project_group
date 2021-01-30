@@ -2,15 +2,15 @@
 CS Project group
 
   - Weekly reports
-    - 1/25 - 1/31
+    - Weekly report (1/25 - 1/31)
       - ...
-    - 2/1 - 2/7
+    - Weekly report (2/1 - 2/7)
       - https://docs.google.com/document/d/19OCA_KGt-EW7pDXZYgbmk4amN8tWfhBmFS8vm5Wnk_Q/edit?usp=sharing
-    - 2/8 - 2/14
+    - Weekly report (2/8 - 2/14)
       - https://docs.google.com/document/d/183W1LqJlU7S36YVGY6m3E7bL18hoBbkCGRiC0Gnb4aM/edit?usp=sharing
-    - 2/15 - 2/21
+    - Weekly report (2/15 - 2/21)
       - ...
-    - 2/22 - 2/28
+    - Weekly report (2/22 - 2/28)
       - ...
       
   - Project Proposal (due 3/5)
