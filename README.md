@@ -7,7 +7,7 @@ CS Project group
     - 2/1 - 2/7
       - https://docs.google.com/document/d/19OCA_KGt-EW7pDXZYgbmk4amN8tWfhBmFS8vm5Wnk_Q/edit?usp=sharing
     - 2/8 - 2/14
-      - ...
+      - https://docs.google.com/document/d/183W1LqJlU7S36YVGY6m3E7bL18hoBbkCGRiC0Gnb4aM/edit?usp=sharing
     - 2/15 - 2/21
       - ...
     - 2/22 - 2/28
