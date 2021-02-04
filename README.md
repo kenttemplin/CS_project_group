@@ -4,11 +4,11 @@ CS Project group
   - Weekly reports
     - Weekly report (2/1 - 2/7)
       - https://docs.google.com/document/d/19OCA_KGt-EW7pDXZYgbmk4amN8tWfhBmFS8vm5Wnk_Q/edit?usp=sharing
-    - Weekly report 3 (2/8 - 2/14)
+    - Weekly report 3 (2/X - 2/5)
       - https://docs.google.com/document/d/183W1LqJlU7S36YVGY6m3E7bL18hoBbkCGRiC0Gnb4aM/edit?usp=sharing
-    - Weekly report 4 (2/15 - 2/21)
+    - Weekly report 4 (2/6 - 2/X)
       - https://docs.google.com/document/d/1rFhX0_cQuDgTGd9jZCZkC1WfM0YPbq_OHCL-C8H_Yu4/edit?usp=sharing
-    - Weekly report 5 (2/22 - 2/28)
+    - Weekly report 5 (2/X - 2/X)
       - https://docs.google.com/document/d/1l1Hr8s7T8fIxkMyLTc8TCHyQgYFU3L9XlFu0PTTJvf4/edit?usp=sharing
       
   - Project Proposal (due 3/5)
@@ -18,13 +18,13 @@ CS Project group
       - https://docs.google.com/document/d/1Uj9cGb2Mgi2uOnvoLKgEloQgZ63iRC1gxULtGidkkgc/edit?usp=sharing
       
   - Weekly reports
-    - Weekly report (3/1 - 3/7)
+    - Weekly report (3/X - 3/X)
       - https://docs.google.com/document/d/1bYYHK8QCxS3qKjvx7tvA0abEmjPPhimG9wcLc5BFr90/edit?usp=sharing
-    - Weekly report (3/7 - 3/13)
+    - Weekly report (3/X - 3/X)
       - https://docs.google.com/document/d/1KDFUBV8wV2FJ7NUHNMcopVtDe8edWc5itgv89_UcPio/edit?usp=sharing
-    - Weekly report (3/14 - 3/21)
+    - Weekly report (3/X - 3/X)
       - https://docs.google.com/document/d/1MpwgOPHb9XvGV7lhYbcVBAIsgZ7xOOyybafBKSt0nuM/edit?usp=sharing
-    - Weekly report (3/22 - 3/28)
+    - Weekly report (3/X - 3/X)
       - ...
     - Weekly report (3/29 - 4/4)
       - ...
