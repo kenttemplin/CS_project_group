@@ -2,8 +2,6 @@
 CS Project group
 
   - Weekly reports
-    - Weekly report (2/1 - 2/7)
-      - https://docs.google.com/document/d/19OCA_KGt-EW7pDXZYgbmk4amN8tWfhBmFS8vm5Wnk_Q/edit?usp=sharing
     - Weekly report 3 (2/X - 2/5)
       - https://docs.google.com/document/d/183W1LqJlU7S36YVGY6m3E7bL18hoBbkCGRiC0Gnb4aM/edit?usp=sharing
     - Weekly report 4 (2/6 - 2/X)
