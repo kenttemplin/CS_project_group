@@ -8,9 +8,9 @@ CS Project group
       - https://docs.google.com/document/d/1rFhX0_cQuDgTGd9jZCZkC1WfM0YPbq_OHCL-C8H_Yu4/edit?usp=sharing
     - Weekly report 5 (2/13 - 2/19)
       - https://docs.google.com/document/d/1l1Hr8s7T8fIxkMyLTc8TCHyQgYFU3L9XlFu0PTTJvf4/edit?usp=sharing
-    - Weekly report (2/20 - 2/26)
+    - Weekly report 6 (2/20 - 2/26)
       - https://docs.google.com/document/d/1bYYHK8QCxS3qKjvx7tvA0abEmjPPhimG9wcLc5BFr90/edit?usp=sharing
-    - Weekly report (2/27 - 3/5)
+    - Weekly report 7 (2/27 - 3/5)
       - https://docs.google.com/document/d/1KDFUBV8wV2FJ7NUHNMcopVtDe8edWc5itgv89_UcPio/edit?usp=sharing
       
   - Project Proposal (due 3/5)
@@ -20,19 +20,19 @@ CS Project group
       - https://docs.google.com/document/d/1Uj9cGb2Mgi2uOnvoLKgEloQgZ63iRC1gxULtGidkkgc/edit?usp=sharing
       
   - Weekly reports
-    - Weekly report (3/X - 3/X)
+    - Weekly report 8 (3/X - 3/X)
       - https://docs.google.com/document/d/1MpwgOPHb9XvGV7lhYbcVBAIsgZ7xOOyybafBKSt0nuM/edit?usp=sharing
-    - Weekly report (3/X - 3/X)
+    - Weekly report 9 (3/X - 3/X)
       - ...
-    - Weekly report (3/X - 4/X)
+    - Weekly report 10 (3/X - 4/X)
       - ...
-    - Weekly report (4/X - 4/X)
+    - Weekly report X (4/X - 4/X)
       - ...
-    - Weekly report (4/X - 4/X)
+    - Weekly report X (4/X - 4/X)
       - ...
-    - Weekly report (4/X - 4/X)
+    - Weekly report X (4/X - 4/X)
       - ...
-    - Weekly report (4/X - 5/X)
+    - Weekly report X (4/X - 5/X)
       - ...
   
   - Poster and Single Slide Draft (due 5/7)
