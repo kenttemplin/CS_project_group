@@ -26,13 +26,13 @@ CS Project group
       - ...
     - Weekly report 10 (3/X - 4/X)
       - ...
-    - Weekly report X (4/X - 4/X)
+    - Weekly report 11 (4/X - 4/X)
       - ...
-    - Weekly report X (4/X - 4/X)
+    - Weekly report 12 (4/X - 4/X)
       - ...
-    - Weekly report X (4/X - 4/X)
+    - Weekly report 13 (4/X - 4/X)
       - ...
-    - Weekly report X (4/X - 5/X)
+    - Weekly report 14 (4/X - 5/X)
       - ...
   
   - Poster and Single Slide Draft (due 5/7)
@@ -41,7 +41,7 @@ CS Project group
   - Sponsor Approval Form (due 5/7)
       - ...
   
-    - Weekly report (5/3 - 5/9)
+    - Weekly report 15 (5/3 - 5/9)
       - ...
   
   - Final Report (due 4/14)
@@ -54,6 +54,6 @@ CS Project group
       - ...
       
   - Weekly reports (?)
-    - Weekly report (5/10 - 5/16) (?)
+    - Weekly report 15 (5/10 - 5/16) (?)
       - ...
 
