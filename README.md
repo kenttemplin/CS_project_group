@@ -43,7 +43,7 @@ CS Project group
       - https://docs.google.com/document/d/1TbSUlnC31Ulpz3N1YLiCSUV54GiZwSfsYYhgK1ZmTis/edit?usp=sharing
   
   - Final Peer Review (due 5/14)
-      - ...
+      - https://docs.google.com/document/d/11uV84EAZJoUi7Zn91Wv8eRa-0tADqVAo9KOigrsyVBs/edit?usp=sharing
   
   - Presentation and post session (due 5/15)
       - ...
