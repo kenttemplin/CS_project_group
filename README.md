@@ -20,19 +20,17 @@ CS Project group
       - https://docs.google.com/document/d/1Uj9cGb2Mgi2uOnvoLKgEloQgZ63iRC1gxULtGidkkgc/edit?usp=sharing
       
   - Weekly reports
-    - Weekly report 8 (3/X - 3/X)
+    - Weekly report 8 (3/6 - 3/12)
       - https://docs.google.com/document/d/1MpwgOPHb9XvGV7lhYbcVBAIsgZ7xOOyybafBKSt0nuM/edit?usp=sharing
-    - Weekly report 9 (3/X - 3/X)
+    - Weekly report 9 (3/13 - 3/19)
       - ...
-    - Weekly report 10 (3/X - 4/X)
+    - Weekly report 10 (3/20 - 3/26)
       - ...
-    - Weekly report 11 (4/X - 4/X)
+    - Weekly report 11 (3/27 - 4/2)
       - ...
-    - Weekly report 12 (4/X - 4/X)
+    - Weekly report 12 (4/3 - 4/9)
       - ...
-    - Weekly report 13 (4/X - 4/X)
-      - ...
-    - Weekly report 14 (4/X - 5/X)
+    - Weekly report 13 (4/10 - 4/16)
       - ...
   
   - Poster and Single Slide Draft (due 5/7)
@@ -41,19 +39,13 @@ CS Project group
   - Sponsor Approval Form (due 5/7)
       - ...
   
-    - Weekly report 15 (5/3 - 5/9)
+  - Final Report (due 5/14)
       - ...
   
-  - Final Report (due 4/14)
+  - Final Peer Review (due 5/14)
       - ...
   
-  - Final Peer Review (due 4/14)
-      - ...
-  
-  - Presentation and post session (due 4/15)
+  - Presentation and post session (due 5/15)
       - ...
       
-  - Weekly reports (?)
-    - Weekly report 15 (5/10 - 5/16) (?)
-      - ...
 
