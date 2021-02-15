@@ -23,15 +23,15 @@ CS Project group
     - Weekly report 8 (3/6 - 3/12)
       - https://docs.google.com/document/d/1MpwgOPHb9XvGV7lhYbcVBAIsgZ7xOOyybafBKSt0nuM/edit?usp=sharing
     - Weekly report 9 (3/13 - 3/19)
-      - ...
+      - https://docs.google.com/document/d/1ambnZtXUYsHINKYAIowygSZGRvrlZ4yyyIVIPY8lF2g/edit?usp=sharing
     - Weekly report 10 (3/20 - 3/26)
-      - ...
+      - https://docs.google.com/document/d/1pnGzFNoiIDFl4_X5BGz-Wt9AoJSt6Q6k5-8eTxPcsoo/edit?usp=sharing
     - Weekly report 11 (3/27 - 4/2)
-      - ...
+      - https://docs.google.com/document/d/1CX9Wb9gIqO7ga18sZAV-4y9dZbxID6Pvt9vBrGQMNd8/edit?usp=sharing
     - Weekly report 12 (4/3 - 4/9)
-      - ...
+      - https://docs.google.com/document/d/12NQfX_8bfO-wuDchfGdhrGKyItsx-FmxWJaE-yZ2G_Y/edit?usp=sharing
     - Weekly report 13 (4/10 - 4/16)
-      - ...
+      - https://docs.google.com/document/d/1hOk11qSiEylcsp3e-OAgjyZrERHO-YPkirMe0mzmPh0/edit?usp=sharing
   
   - Poster and Single Slide Draft (due 5/7)
       - ...
