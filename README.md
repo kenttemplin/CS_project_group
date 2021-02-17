@@ -12,12 +12,12 @@ CS Project group
       - https://docs.google.com/document/d/1bYYHK8QCxS3qKjvx7tvA0abEmjPPhimG9wcLc5BFr90/edit?usp=sharing
     - Weekly report 7 (2/27 - 3/5)
       - https://docs.google.com/document/d/1KDFUBV8wV2FJ7NUHNMcopVtDe8edWc5itgv89_UcPio/edit?usp=sharing
-      
-  - Project Proposal (due 3/5)
-      - https://docs.google.com/document/d/1425QDA_36_jcMUBrlJ2yMOB2oDjx5b6MKL1_BPt8Dc0/edit?usp=sharing
   
   - Mid Semester Peer Review (due 3/5)
       - https://docs.google.com/document/d/1Uj9cGb2Mgi2uOnvoLKgEloQgZ63iRC1gxULtGidkkgc/edit?usp=sharing
+      
+  - Project Proposal (due 3/12 8AM. Team goal is to complete by X/XX X;XX)
+      - https://docs.google.com/document/d/1425QDA_36_jcMUBrlJ2yMOB2oDjx5b6MKL1_BPt8Dc0/edit?usp=sharing
       
   - Weekly reports
     - Weekly report 8 (3/6 - 3/12)
