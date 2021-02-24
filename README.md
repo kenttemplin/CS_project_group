@@ -16,7 +16,7 @@ CS Project group
   - Mid Semester Peer Review (due 3/10)
       - Use CATME to complete.
       
-  - Project Proposal (due 3/12 8AM. Team goal is to complete by X/XX X:XX)
+  - Project Proposal (due 3/12 8AM. Team goal is to complete by 3/7 and ask James to sign on 3/11. Submit 3/11 night.)
       - https://docs.google.com/document/d/1425QDA_36_jcMUBrlJ2yMOB2oDjx5b6MKL1_BPt8Dc0/edit?usp=sharing
       
   - Weekly reports
