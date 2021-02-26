@@ -8,7 +8,7 @@ CS Project group
       - https://docs.google.com/document/d/1rFhX0_cQuDgTGd9jZCZkC1WfM0YPbq_OHCL-C8H_Yu4/edit?usp=sharing
     - Weekly report 5 (2/13 - 2/19) FINISHED
       - https://docs.google.com/document/d/1l1Hr8s7T8fIxkMyLTc8TCHyQgYFU3L9XlFu0PTTJvf4/edit?usp=sharing
-    - Weekly report 6 (2/20 - 2/26)
+    - Weekly report 6 (2/20 - 2/26) FINISHED
       - https://docs.google.com/document/d/1bYYHK8QCxS3qKjvx7tvA0abEmjPPhimG9wcLc5BFr90/edit?usp=sharing
     - Weekly report 7 (2/27 - 3/5)
       - https://docs.google.com/document/d/1KDFUBV8wV2FJ7NUHNMcopVtDe8edWc5itgv89_UcPio/edit?usp=sharing
