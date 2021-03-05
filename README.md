@@ -10,7 +10,7 @@ CS Project group
       - https://docs.google.com/document/d/1l1Hr8s7T8fIxkMyLTc8TCHyQgYFU3L9XlFu0PTTJvf4/edit?usp=sharing
     - Weekly report 6 (2/20 - 2/26) FINISHED
       - https://docs.google.com/document/d/1bYYHK8QCxS3qKjvx7tvA0abEmjPPhimG9wcLc5BFr90/edit?usp=sharing
-    - Weekly report 7 (2/27 - 3/5)
+    - Weekly report 7 (2/27 - 3/5) FINISHED
       - https://docs.google.com/document/d/1KDFUBV8wV2FJ7NUHNMcopVtDe8edWc5itgv89_UcPio/edit?usp=sharing
   
   - Mid Semester Peer Review (due 3/10)
